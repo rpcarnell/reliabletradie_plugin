@@ -1,0 +1,288 @@
+.reliabletradie
+{
+    background: #fff;
+    width: 90%;
+    padding: 10px;
+    margin: 5px 5px 10px 5px;
+}
+#deleteImageWarning
+{
+    color: #a00;
+    font-weight: bold;
+}
+#deleteLayer
+{
+    border-radius: 5px;
+    border: 1px solid #000;
+    padding: 10px;
+    width: 500px;
+    background: #fff;
+    margin: 20px 0px;
+    display: none;
+}
+ul.page-numbers
+{
+    
+}
+.woocommerce-pagination{
+    margin: 0px;
+    padding: 5px;
+}
+ul.page-numbers li
+{
+    float: left;
+    margin-right: 30px;
+    list-style-type: none;
+}
+a.page-numbers
+{
+    
+}
+
+.warn
+{
+    color: #a00;
+    float: left;
+    padding-right: 3px;
+}
+
+.listOfRegions li
+{
+    /*float: left;*/
+    padding: 5px;
+    margin: 5px;
+    width: 100px;
+}
+
+#tradiesfound
+{
+    padding: 5px;
+     
+}
+div.tradifnd
+{
+    border: 3px solid #444;
+    border-radius: 5px;
+    padding: 1px;
+    padding: 5px;
+    margin: 2px;
+    margin-bottom: 5px;
+}
+
+div.tradifnd:nth-child(even) 
+{
+    background: #fff;
+
+}
+div.tradifnd:nth-child(odd)
+{
+    background: #eee;
+
+}
+
+.form2 ul.resultsList {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: rgb(255, 255, 255);
+    border-color: -moz-use-text-color rgb(194, 194, 194) rgb(194, 194, 194);
+    border-image: none;
+    border-style: none solid solid;
+    border-width: medium 1px 1px;
+    display: none;
+    max-height: 308px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    padding: 0px;
+    position: absolute;
+    left: -42px;
+    top: 10px;
+    width: 300px;
+    z-index: 10;
+}
+
+.form2 ul.resultsList_2 {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: rgb(255, 255, 255);
+    border-color: -moz-use-text-color rgb(194, 194, 194) rgb(194, 194, 194);
+    border-image: none;
+    border-style: none solid solid;
+    border-width: medium 1px 1px;
+    display: none;
+    max-height: 308px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    padding: 0px;
+    position: absolute;
+    left: -42px;
+    top: 10px;
+    width: 300px;
+    z-index: 10;
+}
+
+span.postcode{
+    color: #aaa;
+    
+}
+img.proviextraimg
+{
+    width: 140px;
+    margin-right: 5px;
+    margin-top: 0px;
+    vertical-align:text-top;
+    max-height: 150px;
+}
+h1.tradiefound
+{
+    font-size: 35px;
+    margin: 0px;
+}
+
+
+table.trfound
+{
+    border: 0 none;
+    background: none;
+}
+
+table.trfound td, table.trfound tr, table.trfound td div{
+    margin: 0px;
+    padding: 0px;
+     border: 0 none;
+     background: none !important;
+}
+table.trfound td{
+    vertical-align: top !important;
+    padding: 6px;
+}
+h2.fndcheckout{ color: #f00; }
+h2.fndcheckout:hover { text-decoration: underline; }
+
+#subuChosen
+{
+    display: none;    
+}
+.slideTradFnd
+{
+    padding: 5px;
+    display: none;
+}
+
+#tradieselect, .selectLoc, .suburbchoose
+{
+    margin-left: 5px;
+    font-size: 10px;
+    padding: 2px;
+    background: #fff;
+}
+.state2sub
+{
+    margin-top: 2px;
+}
+#previewSubrb
+{
+    display: none;
+    margin: auto;
+    text-align: center;
+    background: #ccc;
+    padding: 5px;
+    width: 50%;
+    color: #fff;
+    margin-bottom: 20px;
+}
+#SubrbPrw
+{
+    
+}
+.sbpr
+{
+    float: left;
+    padding: 5px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    width: 200px;
+    border: 1px solid #aaa;
+    border-radius: 3px;
+    font-size: 10px;
+    position: relative;
+}
+
+#addSub
+{
+    font-size: 10px;
+    padding: 2px;
+    margin: 0px;
+    margin-left: 4px;
+}
+
+.postcosho{
+    font-size: 11px;
+    color: #555;
+}
+.usertrade
+{
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    width: 250px;
+    padding: 5px;
+    padding-right: 20px;
+    margin-bottom: 5px;
+    position: relative;
+    font-size: 11px;
+}
+.delete-trade, .delete-loct
+{
+    background: #f00;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    width: 20px;
+    height: 20px;
+    background: url('../images/close-icon.png') no-repeat;
+}
+.locButton
+{
+        background: none repeat scroll 0% 0% rgb(18, 112, 164);
+        background-color: rgb(18, 112, 164);
+        background-image: none;
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-position: 0% 0%;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-size: auto auto;
+    color: rgb(255, 255, 255);
+    text-shadow: none;
+    width: 100px;
+    text-align: center;
+    font-weight: bold;
+     
+}
+ul.resultsList_2 li, ul.resultsList li
+{
+    list-style-type: none;
+}
+
+.reliable-pagination
+{
+    background: #a00;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100px;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid #ddd;
+    margin: auto;
+}
+
+#tradbutton, #custbutton
+{
+    padding: 15px;
+    width: 200px;
+    margin-right: 40px;
+}
